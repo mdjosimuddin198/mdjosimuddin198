@@ -20,6 +20,9 @@
 
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=mdjosimuddin198)](https://git.io/streak-stats)
+
+
 <h3 align="left">Languages and Tools:</h3>
   <a href="https://www.w3.org/html/" target="_blank"rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"alt="html5" width="40" height="40"/>
@@ -33,6 +36,6 @@
 </p>
 
 <p>&nbsp;
-    <img align="center"src="https://github-readme-stats.vercel.app/api?username=mdjosimuddin198&show_icons=true&&theme=dracula" alt="turyabiswas233"  width="400" />
+    <img align="center"src="https://github-readme-stats.vercel.app/api?username=mdjosimuddin198&show_icons=true&&theme=dracula" alt="josimuddin198"  width="400" />
 </p>
 
