@@ -18,16 +18,20 @@ const josim = {
     name: "Md Josim Uddin",
     pronouns: "He/Him",
     role: "Frontend Developer",
-    skills: ["HTML", "CSS", "JavaScript", "React.js", "Tailwind CSS"],
-    learning: ["React.js", "Responsive Design", "UI/UX Basics"],
-    askMeAbout: ["Web Development", "Frontend Projects", "UI Design"],
+    country: "Bangladesh",
+    skills: ["HTML", "CSS", "JavaScript", "React.js", "Tailwind CSS", "Express.js", "MongoDB", "Firebase"],
+    learning: ["Full Stack Development", "React.js", "Express.js", "MongoDB", "UI/UX Basics"],
+    askMeAbout: ["Frontend Development", "Backend with Express.js", "Database with MongoDB & Firebase"],
     technologies: {
         frontEnd: ["React.js", "Tailwind CSS", "HTML", "CSS", "JavaScript"],
+        backEnd: ["Express.js", "Node.js"],
+        databases: ["MongoDB", "Firebase"],
         tools: ["VS Code", "Figma", "GitHub"],
     },
-    currentFocus: "Improving my React skills and building real-world projects.",
+    currentFocus: "Mastering Full Stack Web Development with MERN Stack.",
     funFact: "I love solving problems and making websites look beautiful!"
 };
+
 ```
 
 <h3 align="left">Connect with me:</h3>
