@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Josim uddin</h1>
-<h3 align="center">A passionate beginner Website Developer from Bangladesh.</h3>
+<h3 align="center"> a passionate Frontend Developer from Bangladesh, eager to grow and build amazing web experiences...</h3>
 
 
 
@@ -15,34 +15,18 @@
 
 ```javascript
 const josim = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "React.js, "Node.js", "mongodb", "firebase",],
-    askMeAbout: ["Web Dev", "Front End" "UI/UX", "Tech Trends"],
+    name: "Md Josim Uddin",
+    pronouns: "He/Him",
+    role: "Frontend Developer",
+    skills: ["HTML", "CSS", "JavaScript", "React.js", "Tailwind CSS"],
+    learning: ["React.js", "Responsive Design", "UI/UX Basics"],
+    askMeAbout: ["Web Development", "Frontend Projects", "UI Design"],
     technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Tailwind", "daisyui"],
-            uiLibraries: ["aceternity UI!", "NextUI", "Shadcn UI","React Spring"],
-        },
-        backEnd: {
-            js: ["Node", "Express", "NestJS"],
-            
-        },
-      
-        
-  
-        databases: ["MongoDB", "SQLite", "Firebase Realtime DB",],
-        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
-        generativeAI: ["GPT", "Vectorization"],
+        frontEnd: ["React.js", "Tailwind CSS", "HTML", "CSS", "JavaScript"],
+        tools: ["VS Code", "Figma", "GitHub"],
     },
-    architecture: {
-        frontEnd: ["SPA", "SSR"],
-        backEnd: ["microservices", "monolithic", "serverless"],
-        devOps: ["CloudFormation", "Serverless Framework"],
-        databases: ["Relational", "NoSQL", "In-memory"],
-    },
-    currentFocus: "Leading a way in generative AI innovation",
-    funFact: "I can debug faster with a coffee in hand!"
+    currentFocus: "Improving my React skills and building real-world projects.",
+    funFact: "I love solving problems and making websites look beautiful!"
 };
 ```
 
