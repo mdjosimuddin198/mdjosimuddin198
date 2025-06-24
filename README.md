@@ -4,7 +4,7 @@
 
 
 
-![JOSIM](https://avatars.githubusercontent.com/u/177133754?v=4)
+![JOSIM](https://raw.githubusercontent.com/mdjosimuddin198/mdjosimuddin198/refs/heads/main/IMG_20250625_001210.jpg)
 
 - 🌱 I’m currently learning **Web Development, Frontend Development**
 
