@@ -11,7 +11,40 @@
 - 📫 How to reach me **<josimuddinweb0504@gmail.com>**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdjosimuddin198&label=Profile%20views&color=0e75b6&style=flat" alt="mdjosimuddin198" /> </p>
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "React.js, "Node.js", "mongodb", "firebase",],
+    askMeAbout: ["Web Dev", "Front End" "UI/UX", "Tech Trends"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Tailwind", "daisyui"],
+            uiLibraries: ["aceternity UI!", "NextUI", "Shadcn UI","React Spring"],
+        },
+        backEnd: {
+            js: ["Node", "Express", "NestJS"],
+            
+        },
+      
+        
+  
+        databases: ["MongoDB", "SQLite", "Firebase Realtime DB",],
+        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
+        generativeAI: ["GPT", "Vectorization"],
+    },
+    architecture: {
+        frontEnd: ["SPA", "SSR"],
+        backEnd: ["microservices", "monolithic", "serverless"],
+        devOps: ["CloudFormation", "Serverless Framework"],
+        databases: ["Relational", "NoSQL", "In-memory"],
+    },
+    currentFocus: "Leading a way in generative AI innovation",
+    funFact: "I can debug faster with a coffee in hand!"
+};
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
