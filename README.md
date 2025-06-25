@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><h1>Hi 👋, I'm Josim Uddin</h1></td>
+    <td><h1>Hi 👋</h1></td>
     <td><img src="https://raw.githubusercontent.com/mdjosimuddin198/mdjosimuddin198/refs/heads/main/Im%20Josim%20uddin.gif" height="50" /></td>
   </tr>
 </table>
