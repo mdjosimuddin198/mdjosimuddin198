@@ -1,7 +1,9 @@
- <p  align="center"><h1 align="left">Hi 👋,</h1>
-  <img src="https://raw.githubusercontent.com/mdjosimuddin198/mdjosimuddin198/refs/heads/main/Im%20Josim%20uddin.gif" />
-</p>
-
+<table>
+  <tr>
+    <td><h1>Hi 👋, I'm Josim Uddin</h1></td>
+    <td><img src="https://raw.githubusercontent.com/mdjosimuddin198/mdjosimuddin198/refs/heads/main/Im%20Josim%20uddin.gif" height="50" /></td>
+  </tr>
+</table>
 <h3 align="center"> a passionate Frontend Developer from Bangladesh, eager to grow and build amazing web experiences...</h3>
 
 
