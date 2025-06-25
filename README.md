@@ -118,10 +118,9 @@ const josim = {
 </p>
 
 <p>
-    <img align="left"src="https://github-readme-stats.vercel.app/api/top-langs?username=mdjosimuddin198&show_icons=true&locale=en&layout=compact&theme=dracula" alt="mdjosimuddin198" width="400" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdjosimuddin198&show_icons=true&locale=en&layout=compact&theme=dracula&cache_seconds=1800" alt="mdjosimuddin198" width="400" />
 </p>
 
 <p>&nbsp;
-    <img align="center"src="https://github-readme-stats.vercel.app/api?username=mdjosimuddin198&show_icons=true&&theme=dracula" alt="josimuddin198"  width="400" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdjosimuddin198&show_icons=true&theme=dracula&cache_seconds=1800" alt="josimuddin198" width="400" />
 </p>
-
