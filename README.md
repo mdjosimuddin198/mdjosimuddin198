@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, <p align="center">
+ <p align="center">Hi 👋,
   <img src="https://raw.githubusercontent.com/mdjosimuddin198/mdjosimuddin198/refs/heads/main/Im%20Josim%20uddin.gif" />
-</p></h1>
+</p>
 
 <h3 align="center"> a passionate Frontend Developer from Bangladesh, eager to grow and build amazing web experiences...</h3>
 
