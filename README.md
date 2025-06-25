@@ -1,4 +1,4 @@
- <p  align="center"><h1>Hi 👋,</h1>
+ <p  align="center"><h1 align="left>Hi 👋,</h1>
   <img src="https://raw.githubusercontent.com/mdjosimuddin198/mdjosimuddin198/refs/heads/main/Im%20Josim%20uddin.gif" />
 </p>
 
