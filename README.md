@@ -47,15 +47,7 @@ const josim = {
 - 🛠️ Continuously improving my **Personal Portfolio** with new features and design upgrades.
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/mdjosimuddin198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdjosimuddin198" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mdjosimuddin198/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdjosimuddin198" height="30" width="40" />
-</a>
 
-
-</p>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35"> Tech Stack
 
