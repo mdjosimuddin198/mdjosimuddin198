@@ -1,11 +1,14 @@
-<h1 align="left">Hi 👋,  <img src="https://raw.githubusercontent.com/mdjosimuddin198/mdjosimuddin198/refs/heads/main/Im%20Josim%20uddin.gif" height="40" /></h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Hi+there!+I'm+Josim Uddin;Frontend+Developer+💻;MERN+Stack+Developer+🚀;From+Bangladesh+🇧🇩" alt="Typing SVG" />
+</div>
+
 
 <h3 align="center"> a passionate Frontend Developer from Bangladesh, eager to grow and build amazing web experiences...</h3>
 
 
 
 
-![JOSIM](https://raw.githubusercontent.com/mdjosimuddin198/mdjosimuddin198/refs/heads/main/IMG_20250625_001210.jpg)
+![JOSIM](https://github.com/mdjosimuddin198/mdjosimuddin198/blob/main/md%20josim%20uddin%20cover%20image.png)
 
 
 - 📫 How to reach me **<josimuddinweb0504@gmail.com>**
