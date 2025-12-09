@@ -10,7 +10,7 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mdjosimuddin198/mdjosimuddin198/refs/heads/main/JOSIM%20UDDIN.png" alt="mdjosimuddin198 github profile banar image md josim uddin" />
+  <img src="https://github.com/mdjosimuddin198/mdjosimuddin198/blob/main/Seamless%20%26%20Engaging%20Web%20Experiences%20with%20Modern%20Tech.png" alt="mdjosimuddin198 github profile banar image md josim uddin" />
 </div>
 
 
